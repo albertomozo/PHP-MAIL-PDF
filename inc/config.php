@@ -17,8 +17,8 @@ $mailerDebug = SMTP::DEBUG_SERVER; // en desarrollo
 // $mailerDebug = ''; // en produccion
 $mailerServer = 'smtp.gmail.com';
 $mailerUser = 'albertomozodesarrollador@gmail.com';
-$mailerPassword =  'ejfz kkju jhrc lfsp' ; // para local
-//$mailerPassword =  '**********' ; // para github
+
+$mailerPassword =  '**********' ; // para github
 $mailerSMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
 $mailerPort = 465;
 
